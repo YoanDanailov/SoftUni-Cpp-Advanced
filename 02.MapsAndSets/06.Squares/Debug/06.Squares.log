@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Yoan\source\repos\02.MapsAndSets\06.Squares\Source.cpp(9,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  06.Squares.vcxproj -> C:\Users\Yoan\source\repos\02.MapsAndSets\Debug\06.Squares.exe
