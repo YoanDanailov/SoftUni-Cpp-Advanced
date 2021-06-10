@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Yoan\source\repos\02.MapsAndSets\02.OddOccurrencies\Source.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\02.MapsAndSets\02.OddOccurrencies\Source.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\02.MapsAndSets\02.OddOccurrencies\Source.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  02.OddOccurrencies.vcxproj -> C:\Users\Yoan\source\repos\02.MapsAndSets\Debug\02.OddOccurrencies.exe
