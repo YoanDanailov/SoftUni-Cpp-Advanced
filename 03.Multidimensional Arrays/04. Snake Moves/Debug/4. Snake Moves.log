@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Yoan\source\repos\Multidimensional Arrays\4. Snake Moves\Source.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\Multidimensional Arrays\4. Snake Moves\Source.cpp(26,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\Multidimensional Arrays\4. Snake Moves\Source.cpp(49,17): warning C4018: '>=': signed/unsigned mismatch
+  4. Snake Moves.vcxproj -> C:\Users\Yoan\source\repos\Multidimensional Arrays\Debug\4. Snake Moves.exe

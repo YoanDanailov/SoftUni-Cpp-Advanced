@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Yoan\source\repos\Multidimensional Arrays\2. Positions Of\Source.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\Multidimensional Arrays\2. Positions Of\Source.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+  2. Positions Of.vcxproj -> C:\Users\Yoan\source\repos\Multidimensional Arrays\Debug\2. Positions Of.exe
