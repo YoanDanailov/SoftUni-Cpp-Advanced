@@ -1,2 +1,2 @@
 # SoftUni-Cpp-Advanced
-Contains the solved tasks of the Softuni's C++ advanced course.
+This repository contains all of the tasks from the C++ advanced course at SoftUni.
