@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Yoan\source\repos\MapsAndSets02\04. Record Unique Names\Source.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\MapsAndSets02\04. Record Unique Names\Source.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+  04. Record Unique Names.vcxproj -> C:\Users\Yoan\source\repos\MapsAndSets02\Debug\04. Record Unique Names.exe

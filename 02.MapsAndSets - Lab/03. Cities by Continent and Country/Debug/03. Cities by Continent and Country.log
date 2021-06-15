@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Yoan\source\repos\MapsAndSets02\03. Cities by Continent and Country\Source.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\MapsAndSets02\03. Cities by Continent and Country\Source.cpp(72,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\MapsAndSets02\03. Cities by Continent and Country\Source.cpp(77,22): warning C4018: '<': signed/unsigned mismatch
+  03. Cities by Continent and Country.vcxproj -> C:\Users\Yoan\source\repos\MapsAndSets02\Debug\03. Cities by Continent and Country.exe
