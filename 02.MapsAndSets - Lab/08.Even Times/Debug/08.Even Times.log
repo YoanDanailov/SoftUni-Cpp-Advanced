@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Yoan\source\repos\MapsAndSets02\08.Even Times\Source.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yoan\source\repos\MapsAndSets02\08.Even Times\Source.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+  08.Even Times.vcxproj -> C:\Users\Yoan\source\repos\MapsAndSets02\Debug\08.Even Times.exe
